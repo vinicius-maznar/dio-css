@@ -1,0 +1,26 @@
+h1, p, div, #link-referencia {
+    color :chartreuse;
+    background: lightblue;
+}
+
+.texto, h1 {
+    color: hotpink;
+    background: cadetblue;
+}
+
+h1, [id^="botao"] {
+    background: blue;
+    color: cornflowerblue;
+}
+
+p.texto {
+    color: darkgoldenrod;
+}
+
+.teste {
+    color: forestgreen;
+}
+
+.texto.teste {
+    color: blueviolet;
+}

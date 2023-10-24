@@ -1,0 +1,3 @@
+.fundo-verde p ~ p {
+    background: lightgreen;
+}

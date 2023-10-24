@@ -1,0 +1,42 @@
+/* [atributo] {#} */
+[title] {
+    color: red;
+}
+
+/* [atributo="valor específico"] {#} */
+[title="Netflix"] {
+    color: rebeccapurple;
+}
+
+[title="Spotify"] {
+    color: green;
+}
+
+[title="Prime"] {
+    color: lightcoral;
+}
+
+/* [atributo~="Valor aproximado"] {#} */
+[title~="Streaming"] {
+    background: greenyellow;
+}
+
+/* [atributo|="Valor exato" + "-"] {#} */
+[title|="Streaming"] {
+    background: darkcyan;
+}
+
+/* Prefixo */
+[href^="http://"] {
+    background: cornflowerblue;
+}
+
+/* Sulfixo */
+[href$="login"] {
+    background: fuchsia;
+}
+
+/* Qualquer posição */
+[href*="login"] {
+    background: peru;
+}

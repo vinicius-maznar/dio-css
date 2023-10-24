@@ -1,0 +1,40 @@
+h1 {
+    background: darkblue;
+    /*O atributo 'color: ' muda a cor do tipo.*/
+    color: lightgreen
+}
+
+div {
+    background: lightblue;
+    color: darkblue;
+}
+
+li{
+    background: lightgreen;
+}
+
+/* Id */
+#texto-boas-vindas {
+    background: red;
+    color: white;
+}
+
+/* Id */
+#explicacao-seletores {
+    background: grey;
+    color: red;
+}
+
+/* Class */
+.seletores-mais-comuns {
+    color: red;
+}
+
+/* Class */
+.texto-maiusculo {
+    text-transform: uppercase;
+}
+
+* {
+    font-weight: bold;
+}

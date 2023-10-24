@@ -1,0 +1,24 @@
+li {
+    color: red;
+}
+
+li li {
+    color: green
+}
+
+/* # = busca por 'id'*/
+#lista-01 li {
+    background: lightblue   ;
+}
+
+.fundo-verde li {
+    background:  lightgreen;
+}
+
+.fundo-azul li {
+    background: lightpink;
+}
+
+.fundo-verde #sublista-01 li {
+    color: black;
+}
