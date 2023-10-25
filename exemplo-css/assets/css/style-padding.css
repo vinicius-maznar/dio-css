@@ -1,0 +1,36 @@
+div {
+    width: 200px;
+    color: white;
+}
+
+/* padding [1 VALOR]: aplicando um valor a todos os lados */
+#elemento-01 {
+    background: orange;
+    padding: 20px 40px 10px;
+}
+
+/* padding [2 VALORES]: aplicando um valor para cima e embaixo, e outro para as laterais */
+#elemento-02 {
+    background: purple;
+}
+
+/* padding [3 VALORES]: aplicando um valor para cima, depois para ambos os lados, e embaixo */
+#elemento-03 {
+    background: indianred;
+    padding: 20px 40px 50px;
+}
+
+/* padding [4 VALORES]: aplicando um valor para cima, direita, depois esquerda e embaixo */
+#elemento-04 {
+    background: navy;
+    padding: 20px 40px 60px;
+}
+
+/* padding [top, right, bottom, left] */
+#elemento-04 {
+    background: navy;
+    padding-top: 10px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 70px;
+}

@@ -1,0 +1,31 @@
+#ex01 {
+    background: lightblue;
+    width: 200px;
+    height: 100px;
+}
+
+#ex02 {
+    color: burlywood;
+    background: olive;
+    width: initial;
+    height: 100px;
+}
+
+#ex03 {
+    color: gold;
+    background: darkred;
+    width: auto;
+    height: auto;
+}
+
+#div-01 {
+    background: lightpink;
+    width: 200px;
+    height: 200px;
+}
+
+#div-02 {
+    background: lightseagreen;
+    width: 100px;
+    height: inherit;
+}

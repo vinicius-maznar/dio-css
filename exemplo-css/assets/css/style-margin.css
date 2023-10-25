@@ -1,0 +1,58 @@
+div {
+    width: 300px;
+    height: 300px;
+}
+
+#elemento-01 {
+    background: orange;
+    margin-bottom: 50px;
+}
+
+#elemento-02 {
+    background: purple;
+    margin-top: 10px;
+    margin-left: 25px;
+    margin-right: 30px;
+}
+
+/* Margin: definindo um único valor */
+#elemento-03 {
+    background: lime;
+    margin: 20px;
+}
+
+/* Margin: definindo dois valores */
+#elemento-04 {
+    background: green;
+    margin: 20px 10px;
+}
+
+/* Margin: definindo três valores */
+#elemento-05 {
+    background: olive;
+    margin: 20px 10px 40px;
+}
+
+/* Margin: definindo quatro valores */
+#elemento-06 {
+    background: teal;
+    margin: 20px 10px 40px 30px;
+}
+
+/* Margin: inherit */
+#elemento-07 {
+    background: fuchsia;
+    margin: inherit;
+}
+
+/* Margin: auto - centralizando na horizontal */
+#elemento-08 {
+    background: yellow;
+    margin: auto;
+}
+
+/* Margin: auto - centralizando na horizontal com marge superior */
+#elemento-09 {
+    background: mediumslateblue;
+    margin: 20px auto;
+}

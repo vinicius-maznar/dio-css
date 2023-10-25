@@ -1,0 +1,11 @@
+.ex-01  {
+    background: pink;
+    min-width: 200px;
+}
+
+.ex-02  {
+    background: lightyellow;
+    max-width: 500px;
+    min-height: 300px;
+    max-height: 500px;
+}

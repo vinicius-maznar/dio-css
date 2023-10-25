@@ -1,0 +1,17 @@
+div {
+    width: 200px;
+    height: 200px;
+    color: white;
+
+    margin: 20px;
+    padding: 20px;
+}
+
+#elemento-01 {
+    background: orange;
+}
+
+#elemento-02 {
+    background: purple;
+    box-sizing: border-box;
+}
